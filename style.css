@@ -5,7 +5,13 @@
 }
 .uno{
     background-color: aqua;
+    width: 80%;
+    position: relative;
+    left: 10%;
     height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 .uno input{
     height: 50px;
