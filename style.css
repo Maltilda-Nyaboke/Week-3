@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.uno{
+    background-color: aqua;
+    height: 300px;
+}
+.dos{
+    background-color: rgb(185, 201, 201);
+}
+.tres{
+    background-color: rgb(56, 61, 141);
+}
+.cuatro{
+    background-color: rgb(88, 156, 33);
+}
+.cinco{
+    background-color: rgb(108, 57, 138);
+}
