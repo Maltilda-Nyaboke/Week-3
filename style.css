@@ -4,7 +4,7 @@
     padding: 0;
 }
 .uno{
-    background-color: aqua;
+    background-color: #42DBB6;
     width: 80%;
     position: relative;
     left: 10%;
@@ -20,18 +20,42 @@
 }
 .dos{
     background-color: rgb(185, 201, 201);
+    width: 80%;
+    position: relative;
+    left: 10%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 .tres{
     background-color: rgb(56, 61, 141);
+    width: 80%;
+    position: relative;
+    left: 10%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 .cuatro{
     background-color: rgb(88, 156, 33);
+    width: 80%;
+    position: relative;
+    left: 10%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 .cinco{
     background-color: rgb(108, 57, 138);
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
+    width: 80%;
+    position: relative;
+    left: 10%;
 }
  .cinco input{
     margin-right: 10px;
