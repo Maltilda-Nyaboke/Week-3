@@ -21,21 +21,13 @@ function myButton() {
     // }
 qeue.style.display = "none";
 
-if (result==100) {
-    alert("Well done for submiting click OK to view your score!");
-    all.textContent= "Your score is 100%, you passed with flying colors!";
-  } else if (score==50) {
-    alert("Well done for submiting click OK to view your score!");
-
-
-
-
 
  if(result=>80) {
      all.textContent="you have excellently passed";
  }else if(result=>50){
     all.textContent="average";
-  }else if(result<50){    all.textContent="poor";
+  }else if(result<50){ 
+     all.textContent="poor";
  }
 
 }
