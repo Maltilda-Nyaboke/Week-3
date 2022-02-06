@@ -22,12 +22,14 @@ function myButton() {
 qeue.style.display = "none";
 
 
- if(result=>80) {
-     all.textContent="you have excellently passed";
+ if(result=>100) {
+     alert("You have performed excellently!");
+  all.textContent= 100
+  
  }else if(result=>50){
-    all.textContent="average";
+    all.textContent="You have performed fairly!";
   }else if(result<50){ 
-     all.textContent="poor";
+     all.textContent="You have performed poorly kindly retake the test!";
  }
 
 }
