@@ -24,10 +24,12 @@ qeue.style.display = "none";
 
  if(result=>100) {
      alert("You have performed excellently!");
-  all.textContent= 100
+  all.textContent= 80 
   
  }else if(result=>50){
-    all.textContent="You have performed fairly!";
+    alert("You have performed fairly!");
+  all.textContent= 50
+    
   }else if(result<50){ 
      all.textContent="You have performed poorly kindly retake the test!";
  }
