@@ -3,10 +3,24 @@
     margin: 0;
     padding: 0;
 }
+.textcenter h1{
+  color: #DB4267;
+  font-family: waltograph;
+}
+h3{
+  color: white;
+}
 
 .one{
   background-color:#42DBB6 ;
   margin-top:50px ;
+}
+span{
+  width: 200px;
+  height: 50px;
+}
+.input [type=radio] {
+     display: none;
 }
 .dos{
   background-color:#42DBB6 ;
@@ -24,4 +38,8 @@
 .cinco{
   background-color:#42DBB6 ;
   margin-top: 50px;
+}
+#answer{
+  font-size: 50px;
+  color: darkviolet;
 }

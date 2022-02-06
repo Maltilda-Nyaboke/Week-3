@@ -38,7 +38,7 @@ No installation needed just use the internet and access it through a form.
 * W3 SCHOOLS
 
 ## Design
-This project has been deployed by the use of the design used to come up with it to make it visually appealing and give directions as to how one can create one from scratch.[https://www.figma.com/file/UOL4DfuhaYUGcPxCh3sGJo/week-3?node-id=0%3A1-=]
+This project has been deployed by the use of the design used to come up with it to make it visually appealing and give directions as to how one can create one from scratch. [view] (https://www.figma.com/file/UOL4DfuhaYUGcPxCh3sGJo/week-3?node-id=0%3A1-=)
 
 
 
