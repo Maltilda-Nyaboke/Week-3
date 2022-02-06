@@ -9,13 +9,14 @@
 + [Installation Requirement](#Installation)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
-+ [Licence](#licence)
++ [Design](#design)
 + [Authors Info](#author-Info)
 
 ## Description
 <p>This is a class project that has been used to gauge my knowledge after learning both HTML 5 and CSS3 and an introduction to Javascript by intergrating the use of my knowledge to come up with a quiz form that is created by the use of the three languages learnt in class.</p>
 
 ## Installation
+No installation needed just use the internet and access it through a form.
 
 ### Requirements
 
@@ -36,7 +37,8 @@
 * Javatpoint
 * W3 SCHOOLS
 
-
+## Design
+This project has been deployed by the use of the design used to come up with it to make it visually appealing and give directions as to how one can create one from scratch.[https://www.figma.com/file/UOL4DfuhaYUGcPxCh3sGJo/week-3?node-id=0%3A1-=]
 
 
 
